@@ -26,7 +26,7 @@ The goal is to make an AI to drive a car on two circuits. The simulation of the 
 
 ## Setting the environment
 In order to launch the project with a trained model, it's essential to set the corresponding camera with the desired model in the Behavior Parameters and Camera Sensor components:
-- ![Setting environment](/Fig/RLSettings.PNG)
+- ![Setting environment](/Figs/RLSettings.PNG)
 
 ## Analyzes
 To monitor the statistics of Agent performance during training, use [TensorBoard](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Using-Tensorboard.md). In a new terminal:
