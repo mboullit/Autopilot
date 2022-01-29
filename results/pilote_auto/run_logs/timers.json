@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1639136758",
+        "python_version": "3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\fayco\\source\\repos\\S9\\Unity3D\\MLUnity-env\\Scripts\\mlagents-learn config_pilote.yaml --run-id=pilote_auto --resume",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.4",
+        "end_time_seconds": "1639136788"
+    },
+    "total": 30.5494412,
+    "count": 1,
+    "self": 0.008321200000001028,
+    "children": {
+        "run_training.setup": {
+            "total": 0.13263850000000055,
+            "count": 1,
+            "self": 0.13263850000000055
+        },
+        "TrainerController.start_learning": {
+            "total": 30.4084815,
+            "count": 1,
+            "self": 0.00043790000000143436,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 30.408034299999997,
+                    "count": 1,
+                    "self": 30.408034299999997
+                },
+                "trainer_threads": {
+                    "total": 8.000000022434506e-07,
+                    "count": 1,
+                    "self": 8.000000022434506e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 8.499999999855845e-06,
+                    "count": 1,
+                    "self": 8.499999999855845e-06
+                }
+            }
+        }
+    }
+}

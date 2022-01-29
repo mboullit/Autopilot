@@ -1,0 +1,29 @@
+{
+    "PiloteBehavior": {
+        "checkpoints": [
+            {
+                "steps": 330108,
+                "file_path": "results\\Pilote_Cam_Az\\PiloteBehavior\\PiloteBehavior-330108.onnx",
+                "reward": 6194.441827947443,
+                "creation_time": 1641737266.2419245,
+                "auxillary_file_paths": [
+                    "results\\Pilote_Cam_Az\\PiloteBehavior\\PiloteBehavior-330108.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 330108,
+            "file_path": "results\\Pilote_Cam_Az\\PiloteBehavior.onnx",
+            "reward": 6194.441827947443,
+            "creation_time": 1641737266.2419245,
+            "auxillary_file_paths": [
+                "results\\Pilote_Cam_Az\\PiloteBehavior\\PiloteBehavior-330108.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

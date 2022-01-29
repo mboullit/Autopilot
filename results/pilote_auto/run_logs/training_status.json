@@ -1,0 +1,29 @@
+{
+    "PiloteBehavior": {
+        "checkpoints": [
+            {
+                "steps": 75605,
+                "file_path": "results\\pilote_auto\\PiloteBehavior\\PiloteBehavior-75605.onnx",
+                "reward": -1034.25095231012,
+                "creation_time": 1639132823.3912997,
+                "auxillary_file_paths": [
+                    "results\\pilote_auto\\PiloteBehavior\\PiloteBehavior-75605.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 75605,
+            "file_path": "results\\pilote_auto\\PiloteBehavior.onnx",
+            "reward": -1034.25095231012,
+            "creation_time": 1639132823.3912997,
+            "auxillary_file_paths": [
+                "results\\pilote_auto\\PiloteBehavior\\PiloteBehavior-75605.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

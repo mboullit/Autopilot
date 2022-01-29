@@ -1,0 +1,65 @@
+{
+    "PiloteBehavior": {
+        "checkpoints": [
+            {
+                "steps": 153181,
+                "file_path": "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-153181.onnx",
+                "reward": 4456.217304033103,
+                "creation_time": 1639439069.3511505,
+                "auxillary_file_paths": [
+                    "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-153181.pt"
+                ]
+            },
+            {
+                "steps": 159695,
+                "file_path": "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-159695.onnx",
+                "reward": 4524.59658203125,
+                "creation_time": 1639439373.7456377,
+                "auxillary_file_paths": [
+                    "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-159695.pt"
+                ]
+            },
+            {
+                "steps": 160003,
+                "file_path": "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-160003.onnx",
+                "reward": -185.09933774834437,
+                "creation_time": 1639439406.6662908,
+                "auxillary_file_paths": [
+                    "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-160003.pt"
+                ]
+            },
+            {
+                "steps": 161676,
+                "file_path": "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-161676.onnx",
+                "reward": 3407.2677001953125,
+                "creation_time": 1639439477.1256378,
+                "auxillary_file_paths": [
+                    "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-161676.pt"
+                ]
+            },
+            {
+                "steps": 181033,
+                "file_path": "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-181033.onnx",
+                "reward": 2722.384028737138,
+                "creation_time": 1639439823.2879179,
+                "auxillary_file_paths": [
+                    "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-181033.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 181033,
+            "file_path": "results\\two_track_drive\\PiloteBehavior.onnx",
+            "reward": 2722.384028737138,
+            "creation_time": 1639439823.2879179,
+            "auxillary_file_paths": [
+                "results\\two_track_drive\\PiloteBehavior\\PiloteBehavior-181033.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

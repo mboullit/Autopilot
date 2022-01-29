@@ -1,0 +1,2 @@
+model_checkpoint_path: "My Behavior-128.ckpt"
+all_model_checkpoint_paths: "My Behavior-128.ckpt"

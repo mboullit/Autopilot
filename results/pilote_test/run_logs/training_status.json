@@ -1,0 +1,47 @@
+{
+    "PiloteBehavior": {
+        "checkpoints": [
+            {
+                "steps": 2794,
+                "file_path": "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-2794.onnx",
+                "reward": -161.57407407407408,
+                "creation_time": 1639426914.5467565,
+                "auxillary_file_paths": [
+                    "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-2794.pt"
+                ]
+            },
+            {
+                "steps": 160741,
+                "file_path": "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-160741.onnx",
+                "reward": 7317.1741277521305,
+                "creation_time": 1639430863.5289934,
+                "auxillary_file_paths": [
+                    "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-160741.pt"
+                ]
+            },
+            {
+                "steps": 202997,
+                "file_path": "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-202997.onnx",
+                "reward": 7085.85138811384,
+                "creation_time": 1639432258.1085167,
+                "auxillary_file_paths": [
+                    "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-202997.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 202997,
+            "file_path": "results\\pilote_test\\PiloteBehavior.onnx",
+            "reward": 7085.85138811384,
+            "creation_time": 1639432258.1085167,
+            "auxillary_file_paths": [
+                "results\\pilote_test\\PiloteBehavior\\PiloteBehavior-202997.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

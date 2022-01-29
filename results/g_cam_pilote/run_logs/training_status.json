@@ -1,0 +1,47 @@
+{
+    "PiloteBehavior": {
+        "checkpoints": [
+            {
+                "steps": 320164,
+                "file_path": "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-320164.onnx",
+                "reward": 740.0,
+                "creation_time": 1642461515.9805715,
+                "auxillary_file_paths": [
+                    "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-320164.pt"
+                ]
+            },
+            {
+                "steps": 499999,
+                "file_path": "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-499999.onnx",
+                "reward": 1615.2027027027027,
+                "creation_time": 1642502769.2360318,
+                "auxillary_file_paths": [
+                    "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-499999.pt"
+                ]
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-500028.onnx",
+                "reward": 1621.0,
+                "creation_time": 1642502769.3940306,
+                "auxillary_file_paths": [
+                    "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-500028.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500028,
+            "file_path": "results\\g_cam_pilote\\PiloteBehavior.onnx",
+            "reward": 1621.0,
+            "creation_time": 1642502769.3940306,
+            "auxillary_file_paths": [
+                "results\\g_cam_pilote\\PiloteBehavior\\PiloteBehavior-500028.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

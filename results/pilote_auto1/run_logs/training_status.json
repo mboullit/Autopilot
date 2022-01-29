@@ -1,0 +1,65 @@
+{
+    "PiloteBehavior": {
+        "checkpoints": [
+            {
+                "steps": 149235,
+                "file_path": "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-149235.onnx",
+                "reward": null,
+                "creation_time": 1639426778.9690623,
+                "auxillary_file_paths": [
+                    "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-149235.pt"
+                ]
+            },
+            {
+                "steps": 150259,
+                "file_path": "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-150259.onnx",
+                "reward": null,
+                "creation_time": 1639426828.1730845,
+                "auxillary_file_paths": [
+                    "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-150259.pt"
+                ]
+            },
+            {
+                "steps": 150536,
+                "file_path": "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-150536.onnx",
+                "reward": -200.0,
+                "creation_time": 1639433742.8281584,
+                "auxillary_file_paths": [
+                    "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-150536.pt"
+                ]
+            },
+            {
+                "steps": 151455,
+                "file_path": "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-151455.onnx",
+                "reward": -199.3762993762994,
+                "creation_time": 1639434860.7891877,
+                "auxillary_file_paths": [
+                    "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-151455.pt"
+                ]
+            },
+            {
+                "steps": 158794,
+                "file_path": "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-158794.onnx",
+                "reward": 107.89473684210526,
+                "creation_time": 1639436225.011026,
+                "auxillary_file_paths": [
+                    "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-158794.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 158794,
+            "file_path": "results\\pilote_auto1\\PiloteBehavior.onnx",
+            "reward": 107.89473684210526,
+            "creation_time": 1639436225.011026,
+            "auxillary_file_paths": [
+                "results\\pilote_auto1\\PiloteBehavior\\PiloteBehavior-158794.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

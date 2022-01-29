@@ -1,0 +1,23 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 128,
+                "file_path": "results\\test_drive\\My Behavior\\My Behavior-128.nn",
+                "reward": null,
+                "creation_time": 1637944986.3787928
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 128,
+            "file_path": "results\\test_drive\\My Behavior.nn",
+            "reward": null,
+            "creation_time": 1637944986.3787928
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.0"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 998,
+                "file_path": "results\\piloteAuto\\My Behavior\\My Behavior-998.nn",
+                "reward": 6.884000022888183,
+                "creation_time": 1638198885.057327
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 998,
+            "file_path": "results\\piloteAuto\\My Behavior.nn",
+            "reward": 6.884000022888183,
+            "creation_time": 1638198885.057327
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.0"
+    }
+}
